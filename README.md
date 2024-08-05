@@ -6,7 +6,7 @@
 
 ### Research & Paper
 
-My initial research is in the "Paper Research" directory, and the rendered PDF file is under ``Paper Research/build``. Similarly, my final paper PDF is under ``Final Paper/build``.
+My initial research is in the ``Paper Research directory``, and the rendered PDF file is under ``Paper Research/build``. Similarly, my final paper PDF is under ``Final Paper/build``.
 
 I've added multiple other sources than I've included in the research portion of my paper, since I felt it appropriate to refrain from using citations in citations. 
 
