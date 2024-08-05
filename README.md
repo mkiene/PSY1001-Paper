@@ -1,6 +1,6 @@
 # <p align=center>Understanding Sleep’s Critical Role in Cognitive Health and Memory Consolidation</p>
 
-**<p align=center>An exploration of sleep, insomnia, and their impact on cognition.</p>**
+**<p align=center>An exploration of sleep, insomnia, and their impact on cognition</p>**
 
 ## Research & Paper
 
