@@ -1,6 +1,6 @@
 # Final Paper for PSY1001-42
 
-<p style="text-align:center; font-weight:bold">An exploration of sleep, insomnia, and their impact on cognition.</p>
+<p align=center>**An exploration of sleep, insomnia, and their impact on cognition.**</p>
 
 ### Research & Paper
 
