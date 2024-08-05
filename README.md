@@ -1,4 +1,4 @@
-# <p align=center>Final Paper for PSY1001-42</p>
+# <p align=center>Understanding Sleep’s Critical Role in Cognitive Health and Memory Consolidation</p>
 
 **<p align=center>An exploration of sleep, insomnia, and their impact on cognition.</p>**
 
