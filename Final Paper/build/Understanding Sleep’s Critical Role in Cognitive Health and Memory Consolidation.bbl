@@ -1,0 +1,1569 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global}
+    \entry{10}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8f7c7318ee8deb77f24cc02834716514}{%
+           family={Binks},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fbb3b636279fcdff25dacabd9f8eeaa}{%
+           family={Waters},
+           familyi={W\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f169675e6dc116e73329a6971293f5ad}{%
+           family={Hurry},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{468bc2fad61ba3ea51dba060420dc549}
+      \strng{fullhash}{6c8fd34849d4e854c8016be3846cdf2c}
+      \strng{bibnamehash}{6c8fd34849d4e854c8016be3846cdf2c}
+      \strng{authorbibnamehash}{6c8fd34849d4e854c8016be3846cdf2c}
+      \strng{authornamehash}{468bc2fad61ba3ea51dba060420dc549}
+      \strng{authorfullhash}{6c8fd34849d4e854c8016be3846cdf2c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sleep}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Short-term total sleep deprivation does not selectively impair higher cortical functioning}
+      \field{volume}{22}
+      \field{year}{1999}
+      \field{pages}{328\bibrangedash 334}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1093/sleep/22.3.328
+      \endverb
+    \endentry
+    \entry{12}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=4d74c3c0d1206f39f14451ef70aacfe6}{%
+           family={Blackwell},
+           familyi={B\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1887ce414d34f6c9d9cb22e0e13ee5bf}{%
+           family={Yaffe},
+           familyi={Y\bibinitperiod},
+           given={Kristine},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76bbe0dc51583e9065d07ef11878d16a}{%
+           family={Ancoli-Israel},
+           familyi={A\bibinithyphendelim I\bibinitperiod},
+           given={Sonia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a4efd7b9d88b2f85cca89a2d0dff40f}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Jane\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df9e9a4ce2a81975573c348ce1125a90}{%
+           family={Cauley},
+           familyi={C\bibinitperiod},
+           given={Jane\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d502e9b136aab87936e13b380e30254}{%
+           family={Hillier},
+           familyi={H\bibinitperiod},
+           given={Teresa\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=537ffa40b6b129b182304a211a26214d}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={Howard\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dfd8954275025152a3c51635ba6aed3}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={Katie\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cff0944929824a1ce975ecaabe7787fb}{%
+           family={Osteoporotic\bibnamedelimb Fractures\bibnamedelima Group},
+           familyi={O\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Study},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb7fa49e5ac0c7e882da98200901a470}
+      \strng{fullhash}{9b22dc6075181c928c410cbf7488ed48}
+      \strng{bibnamehash}{9b22dc6075181c928c410cbf7488ed48}
+      \strng{authorbibnamehash}{9b22dc6075181c928c410cbf7488ed48}
+      \strng{authornamehash}{bb7fa49e5ac0c7e882da98200901a470}
+      \strng{authorfullhash}{9b22dc6075181c928c410cbf7488ed48}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Gerontology: Series A, Biological Sciences and Medical Sciences}
+      \field{title}{Poor sleep is associated with impaired cognitive function in older women: the study of osteoporotic fractures}
+      \field{volume}{61}
+      \field{year}{2006}
+      \field{pages}{405\bibrangedash 410}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1093/gerona/61.4.405
+      \endverb
+    \endentry
+    \entry{6}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a10490ed6c9aaa5fc3e5c402f22c1e9b}{%
+           family={Diekelmann},
+           familyi={D\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{fullhash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{bibnamehash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{authorbibnamehash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{authornamehash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{authorfullhash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Systems Neuroscience}
+      \field{title}{Sleep for cognitive enhancement}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{pages}{46}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnsys.2014.00046
+      \endverb
+    \endentry
+    \entry{15}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4b8fa6249612a3ca8eaea417fd6139ab}{%
+           family={Elias},
+           familyi={E\bibinitperiod},
+           given={Merrill\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7104114eee19d359802d2b67009ed8b}{%
+           family={Beiser},
+           familyi={B\bibinitperiod},
+           given={Alexa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d178fede652fe766a714993e5167e5cc}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Philip\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26d24993f091b95165e806b197405d86}
+      \strng{fullhash}{3ca898eaae338df59e34624e953e17ca}
+      \strng{bibnamehash}{3ca898eaae338df59e34624e953e17ca}
+      \strng{authorbibnamehash}{3ca898eaae338df59e34624e953e17ca}
+      \strng{authornamehash}{26d24993f091b95165e806b197405d86}
+      \strng{authorfullhash}{3ca898eaae338df59e34624e953e17ca}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives of Neurology}
+      \field{number}{6}
+      \field{title}{The preclinical phase of Alzheimer disease: a 22-year prospective study of the Framingham Cohort}
+      \field{volume}{57}
+      \field{year}{2000}
+      \field{pages}{808\bibrangedash 813}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1001/archneur.57.6.808
+      \endverb
+    \endentry
+    \entry{9}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1e6d2b874a37deb899051d6623a5d9a8}{%
+           family={Kajimura},
+           familyi={K\bibinitperiod},
+           given={Shinya},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7df048eb2aad541fce900a6741f5d272}{%
+           family={Masuda},
+           familyi={M\bibinitperiod},
+           given={Naoki},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ea8b086e1e45769c674c5829369b050}{%
+           family={Lau},
+           familyi={L\bibinitperiod},
+           given={Joseph\bibnamedelimb K.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d39a3470cf94962e2cf0ae555dc18a05}{%
+           family={Murayama},
+           familyi={M\bibinitperiod},
+           given={Kou},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e788a1116cd7e5277dc26697da2b41fb}
+      \strng{fullhash}{7bd888a4fcfb0c53e437f43690e17bac}
+      \strng{bibnamehash}{7bd888a4fcfb0c53e437f43690e17bac}
+      \strng{authorbibnamehash}{7bd888a4fcfb0c53e437f43690e17bac}
+      \strng{authornamehash}{e788a1116cd7e5277dc26697da2b41fb}
+      \strng{authorfullhash}{7bd888a4fcfb0c53e437f43690e17bac}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Focused attention meditation changes the boundary and configuration of functional networks in the brain}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{pages}{18426}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-020-75396-9
+      \endverb
+    \endentry
+    \entry{1}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d0c765cedcaeac8e3631cb2e8d03530e}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bad0a7a81bc0da51365f491396fa9e8}{%
+           family={Al-Jahdali},
+           familyi={A\bibinithyphendelim J\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Armed Forces Hospital}%
+      }
+      \strng{namehash}{3da0d099119371f519a36b133ba008ae}
+      \strng{fullhash}{3da0d099119371f519a36b133ba008ae}
+      \strng{bibnamehash}{3da0d099119371f519a36b133ba008ae}
+      \strng{authorbibnamehash}{3da0d099119371f519a36b133ba008ae}
+      \strng{authornamehash}{3da0d099119371f519a36b133ba008ae}
+      \strng{authorfullhash}{3da0d099119371f519a36b133ba008ae}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurosciences (Riyadh, Saudi Arabia)}
+      \field{number}{2}
+      \field{title}{The consequences of sleep deprivation on cognitive performance}
+      \field{volume}{28}
+      \field{year}{2023}
+      \field{pages}{91\bibrangedash 99}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.17712/nsj.2023.2.20220108
+      \endverb
+    \endentry
+    \entry{3}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=0a6e9b3c55567992d01d0117aa5ad0a8}{%
+           family={Künstler},
+           familyi={K\bibinitperiod},
+           given={Erika\bibnamedelimb C.\bibnamedelimi S.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6897cdb472e864d3c227ca58fd219660}{%
+           family={Bublak},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0eb88b72a150ab971b55421d636325f1}{%
+           family={Finke},
+           familyi={F\bibinitperiod},
+           given={Kathrin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e79ee7ca815a2bb8ba4a294e5ff1b29}{%
+           family={Koranyi},
+           familyi={K\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9607a1f9d28c0d05bf9c524fc43c7117}{%
+           family={Meinhard},
+           familyi={M\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=076677a52eaf502406badb22f798019f}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3af00274396787c434e102112f4c03cd}{%
+           family={Rupprecht},
+           familyi={R\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f82bbe60b9ebc98c21d2866c05ded81a}
+      \strng{fullhash}{672a6dd832fe0bca1360156729f9f03a}
+      \strng{bibnamehash}{672a6dd832fe0bca1360156729f9f03a}
+      \strng{authorbibnamehash}{672a6dd832fe0bca1360156729f9f03a}
+      \strng{authornamehash}{f82bbe60b9ebc98c21d2866c05ded81a}
+      \strng{authorfullhash}{672a6dd832fe0bca1360156729f9f03a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature and Science of Sleep}
+      \field{title}{The Relationship Between Cognitive Impairments and Sleep Quality Measures in Persistent Insomnia Disorder}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{491\bibrangedash 498}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2147/NSS.S399644
+      \endverb
+    \endentry
+    \entry{8}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=96ea764e5dd50348d225d047c5df8d16}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={June\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac4814a3d5768078e9bff98db598ebf4}{%
+           family={Groeger},
+           familyi={G\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c702957c5ca3c3a113dde86d3cd7814}{%
+           family={Santhi},
+           familyi={S\bibinitperiod},
+           given={Nele},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c9d99a662100906a4c1f3e8ff72181d}{%
+           family={Arbon},
+           familyi={A\bibinitperiod},
+           given={Emma\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f534779d09f77fca6560018450ad10f6}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={Andreea\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=914e10fd4de7f9f0c8f0f6983640bbd3}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Shahab},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ea72fb8ca07cf5b91e82609154725e8a}
+      \strng{fullhash}{f862d98463468cb943d625837d8495b0}
+      \strng{bibnamehash}{f862d98463468cb943d625837d8495b0}
+      \strng{authorbibnamehash}{f862d98463468cb943d625837d8495b0}
+      \strng{authornamehash}{ea72fb8ca07cf5b91e82609154725e8a}
+      \strng{authorfullhash}{f862d98463468cb943d625837d8495b0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS One}
+      \field{title}{Effects of partial and acute total sleep deprivation on performance across cognitive domains, individuals, and circadian phase}
+      \field{volume}{7}
+      \field{year}{2012}
+      \field{pages}{e45987}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0045987
+      \endverb
+    \endentry
+    \entry{7}{misc}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fe8b2f2690a23f59315710ef8b859713}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={AK},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=918cdf92e7b4639ef28fc2ca3732cb12}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a5e2a527350274ef87461511fb658f9}{%
+           family={Shumway},
+           familyi={S\bibinitperiod},
+           given={KR},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{223ca249bbb8151dc2fa23635b6001b0}
+      \strng{fullhash}{6505d9030f083bf2b95291faf20b4331}
+      \strng{bibnamehash}{6505d9030f083bf2b95291faf20b4331}
+      \strng{authorbibnamehash}{6505d9030f083bf2b95291faf20b4331}
+      \strng{authornamehash}{223ca249bbb8151dc2fa23635b6001b0}
+      \strng{authorfullhash}{6505d9030f083bf2b95291faf20b4331}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ncbi.nlm.nih.gov/books/NBK526132/}}
+      \field{note}{Updated 2024 Jan 26. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-.}
+      \field{title}{Physiology, Sleep Stages}
+      \field{year}{2024}
+    \endentry
+    \entry{16}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8e8d4714aec6529b53d45141d180eef6}{%
+           family={Rasch},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fc48c30d9b0c001bd53b6ccdb73ad9c}{%
+           family={Pommer},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e835feafe3e6b39d65d961b6fa174f6}{%
+           family={Diekelmann},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee1f2afc10c7af6031586b734d7da03c}{%
+           family={Born},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc21601e7ca781b2a8ccfe8067c00ca9}
+      \strng{fullhash}{555f1cdc603d8de6ddee2abe11d6303e}
+      \strng{bibnamehash}{555f1cdc603d8de6ddee2abe11d6303e}
+      \strng{authorbibnamehash}{555f1cdc603d8de6ddee2abe11d6303e}
+      \strng{authornamehash}{dc21601e7ca781b2a8ccfe8067c00ca9}
+      \strng{authorfullhash}{555f1cdc603d8de6ddee2abe11d6303e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Neuroscience}
+      \field{title}{Pharmacological REM Sleep Suppression Paradoxically Improves Rather than Impairs Skill Memory}
+      \field{volume}{12}
+      \field{year}{2009}
+      \field{pages}{396\bibrangedash 397}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1038/nn.2206
+      \endverb
+    \endentry
+    \entry{14}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e669339b82ae1f947f768ecf4bce1a11}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {Sleep Disorders}%
+        {Research Center at Henry Ford Health System, Henry Ford Hospital Sleep Center, 2799 West Grand Blvd., Detroit, MI 48202, USA}%
+      }
+      \list{publisher}{1}{%
+        {American Academy of Sleep Medicine}%
+      }
+      \strng{namehash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{fullhash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{bibnamehash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{authorbibnamehash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{authornamehash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{authorfullhash}{e669339b82ae1f947f768ecf4bce1a11}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Insomnia, a common sleep disorder, affects millions of people and has serious health consequences. This paper reviews the definition, prevalence, etiology, and consequences of insomnia, highlighting its impact on mental health, comorbid conditions, and quality of life.}
+      \field{issn}{1550-9389}
+      \field{journaltitle}{Journal of Clinical Sleep Medicine: JCSM: Official Publication of the American Academy of Sleep Medicine}
+      \field{month}{8}
+      \field{note}{Research support, Non-U.S. Gov't; Review}
+      \field{number}{5 Suppl}
+      \field{title}{Insomnia: definition, prevalence, etiology, and consequences}
+      \field{volume}{3}
+      \field{year}{2007}
+      \field{pages}{S7\bibrangedash S10}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.5664/jcsm.26929
+      \endverb
+      \keyw{Insomnia,Prevalence,Etiology,Consequences,Epidemiology,Mental Disorders,Sleep Disorders}
+    \endentry
+    \entry{2}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=664e873d3acbc46df4c0481c56b3a879}{%
+           family={Sen},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=6ea5fed449b364ef5ff5af498a3e51c1}{%
+           family={Tai},
+           familyi={T\bibinitperiod},
+           given={X.Y.},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{fullhash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{bibnamehash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{authorbibnamehash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{authornamehash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{authorfullhash}{de9fd978bbf5deadd03195838d482f0d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Neurology and Neuroscience Reports}
+      \field{title}{Sleep Duration and Executive Function in Adults}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{801\bibrangedash 813}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s11910-023-01309-8
+      \endverb
+    \endentry
+    \entry{13}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=377683ee819468dafca6bb2767ebe07d}{%
+           family={Suemoto},
+           familyi={S\bibinitperiod},
+           given={Claudia\bibnamedelima K.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6524125aefa437dfbc3383dea161264d}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Rosane\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f285b8f3d6b1722c017eddef4d9ff4e}{%
+           family={Giatti},
+           familyi={G\bibinitperiod},
+           given={Luana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c72224635378921a1589297f02721566}{%
+           family={Aielo},
+           familyi={A\bibinitperiod},
+           given={Ana\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=996a6a6a62567175c32a067322a3acee}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Walter\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a7b8859dec86fbcacdd071817462b1e}{%
+           family={Parise},
+           familyi={P\bibinitperiod},
+           given={Bruna\bibnamedelima K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30c0c624d567c3adcf9815344256fd9a}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Leandro\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46503659a8b25628659f9f98f1e73822}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Sérgio\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4ab48884f68fe78f2ab5536be8d998e}{%
+           family={Griep},
+           familyi={G\bibinitperiod},
+           given={Rosane\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a6a029650f3efe66234f159dd826513}{%
+           family={Brunoni},
+           familyi={B\bibinitperiod},
+           given={André\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a152fd06aa97dd540e98f9935065ab5}{%
+           family={Lotufo},
+           familyi={L\bibinitperiod},
+           given={Paulo\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad1280f55091b0fd5f59e7faec06e279}{%
+           family={Bensenor},
+           familyi={B\bibinitperiod},
+           given={Isabela\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3764ccd45239eba214d4686ed195f8b}{%
+           family={Drager},
+           familyi={D\bibinitperiod},
+           given={Luciano\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e8932c241be1a4e007796332553bbae}
+      \strng{fullhash}{437a9fde2367d46df433353aa1788552}
+      \strng{bibnamehash}{437a9fde2367d46df433353aa1788552}
+      \strng{authorbibnamehash}{437a9fde2367d46df433353aa1788552}
+      \strng{authornamehash}{9e8932c241be1a4e007796332553bbae}
+      \strng{authorfullhash}{437a9fde2367d46df433353aa1788552}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sleep Research}
+      \field{title}{Association between objective sleep measures and cognitive performance: a cross-sectional analysis in the Brazilian Longitudinal Study of Adult Health (ELSA-Brasil) study}
+      \field{volume}{32}
+      \field{year}{2023}
+      \field{pages}{e13659}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1111/jsr.13659
+      \endverb
+    \endentry
+    \entry{11}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=66c19c24f8ad9175b6133c38c803521c}{%
+           family={Tai},
+           familyi={T\bibinitperiod},
+           given={Xin\bibnamedelima You},
+           giveni={X\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=90ea174e8cf93b1be0a5f0d29098868d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf947392d3071d2e59960bbf97a42b7c}{%
+           family={Manohar},
+           familyi={M\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d9d4fd0d089ec106e283f32eacda3ad}{%
+           family={Husain},
+           familyi={H\bibinitperiod},
+           given={Masud},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39c99266ba598b2eb7ac4eb2a6485ef1}
+      \strng{fullhash}{088faf74161c4ceb7b63a1c3f93fe9f3}
+      \strng{bibnamehash}{088faf74161c4ceb7b63a1c3f93fe9f3}
+      \strng{authorbibnamehash}{088faf74161c4ceb7b63a1c3f93fe9f3}
+      \strng{authornamehash}{39c99266ba598b2eb7ac4eb2a6485ef1}
+      \strng{authorfullhash}{088faf74161c4ceb7b63a1c3f93fe9f3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2399-3642}
+      \field{journaltitle}{Communications Biology}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Impact of sleep duration on executive function and brain structure}
+      \field{volume}{5}
+      \field{year}{2022}
+      \field{pages}{201}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s42003-022-03123-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s42003-022-03123-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s42003-022-03123-3
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{10}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8f7c7318ee8deb77f24cc02834716514}{%
+           family={Binks},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fbb3b636279fcdff25dacabd9f8eeaa}{%
+           family={Waters},
+           familyi={W\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f169675e6dc116e73329a6971293f5ad}{%
+           family={Hurry},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{468bc2fad61ba3ea51dba060420dc549}
+      \strng{fullhash}{6c8fd34849d4e854c8016be3846cdf2c}
+      \strng{bibnamehash}{6c8fd34849d4e854c8016be3846cdf2c}
+      \strng{authorbibnamehash}{6c8fd34849d4e854c8016be3846cdf2c}
+      \strng{authornamehash}{468bc2fad61ba3ea51dba060420dc549}
+      \strng{authorfullhash}{6c8fd34849d4e854c8016be3846cdf2c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sleep}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Short-term total sleep deprivation does not selectively impair higher cortical functioning}
+      \field{volume}{22}
+      \field{year}{1999}
+      \field{pages}{328\bibrangedash 334}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1093/sleep/22.3.328
+      \endverb
+    \endentry
+    \entry{12}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=4d74c3c0d1206f39f14451ef70aacfe6}{%
+           family={Blackwell},
+           familyi={B\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1887ce414d34f6c9d9cb22e0e13ee5bf}{%
+           family={Yaffe},
+           familyi={Y\bibinitperiod},
+           given={Kristine},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76bbe0dc51583e9065d07ef11878d16a}{%
+           family={Ancoli-Israel},
+           familyi={A\bibinithyphendelim I\bibinitperiod},
+           given={Sonia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a4efd7b9d88b2f85cca89a2d0dff40f}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Jane\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df9e9a4ce2a81975573c348ce1125a90}{%
+           family={Cauley},
+           familyi={C\bibinitperiod},
+           given={Jane\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d502e9b136aab87936e13b380e30254}{%
+           family={Hillier},
+           familyi={H\bibinitperiod},
+           given={Teresa\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=537ffa40b6b129b182304a211a26214d}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={Howard\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dfd8954275025152a3c51635ba6aed3}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={Katie\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cff0944929824a1ce975ecaabe7787fb}{%
+           family={Osteoporotic\bibnamedelimb Fractures\bibnamedelima Group},
+           familyi={O\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Study},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb7fa49e5ac0c7e882da98200901a470}
+      \strng{fullhash}{9b22dc6075181c928c410cbf7488ed48}
+      \strng{bibnamehash}{9b22dc6075181c928c410cbf7488ed48}
+      \strng{authorbibnamehash}{9b22dc6075181c928c410cbf7488ed48}
+      \strng{authornamehash}{bb7fa49e5ac0c7e882da98200901a470}
+      \strng{authorfullhash}{9b22dc6075181c928c410cbf7488ed48}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Gerontology: Series A, Biological Sciences and Medical Sciences}
+      \field{title}{Poor sleep is associated with impaired cognitive function in older women: the study of osteoporotic fractures}
+      \field{volume}{61}
+      \field{year}{2006}
+      \field{pages}{405\bibrangedash 410}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1093/gerona/61.4.405
+      \endverb
+    \endentry
+    \entry{6}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a10490ed6c9aaa5fc3e5c402f22c1e9b}{%
+           family={Diekelmann},
+           familyi={D\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{fullhash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{bibnamehash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{authorbibnamehash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{authornamehash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \strng{authorfullhash}{a10490ed6c9aaa5fc3e5c402f22c1e9b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Systems Neuroscience}
+      \field{title}{Sleep for cognitive enhancement}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{pages}{46}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnsys.2014.00046
+      \endverb
+    \endentry
+    \entry{15}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4b8fa6249612a3ca8eaea417fd6139ab}{%
+           family={Elias},
+           familyi={E\bibinitperiod},
+           given={Merrill\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7104114eee19d359802d2b67009ed8b}{%
+           family={Beiser},
+           familyi={B\bibinitperiod},
+           given={Alexa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d178fede652fe766a714993e5167e5cc}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Philip\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26d24993f091b95165e806b197405d86}
+      \strng{fullhash}{3ca898eaae338df59e34624e953e17ca}
+      \strng{bibnamehash}{3ca898eaae338df59e34624e953e17ca}
+      \strng{authorbibnamehash}{3ca898eaae338df59e34624e953e17ca}
+      \strng{authornamehash}{26d24993f091b95165e806b197405d86}
+      \strng{authorfullhash}{3ca898eaae338df59e34624e953e17ca}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives of Neurology}
+      \field{number}{6}
+      \field{title}{The preclinical phase of Alzheimer disease: a 22-year prospective study of the Framingham Cohort}
+      \field{volume}{57}
+      \field{year}{2000}
+      \field{pages}{808\bibrangedash 813}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1001/archneur.57.6.808
+      \endverb
+    \endentry
+    \entry{9}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1e6d2b874a37deb899051d6623a5d9a8}{%
+           family={Kajimura},
+           familyi={K\bibinitperiod},
+           given={Shinya},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7df048eb2aad541fce900a6741f5d272}{%
+           family={Masuda},
+           familyi={M\bibinitperiod},
+           given={Naoki},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ea8b086e1e45769c674c5829369b050}{%
+           family={Lau},
+           familyi={L\bibinitperiod},
+           given={Joseph\bibnamedelimb K.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d39a3470cf94962e2cf0ae555dc18a05}{%
+           family={Murayama},
+           familyi={M\bibinitperiod},
+           given={Kou},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e788a1116cd7e5277dc26697da2b41fb}
+      \strng{fullhash}{7bd888a4fcfb0c53e437f43690e17bac}
+      \strng{bibnamehash}{7bd888a4fcfb0c53e437f43690e17bac}
+      \strng{authorbibnamehash}{7bd888a4fcfb0c53e437f43690e17bac}
+      \strng{authornamehash}{e788a1116cd7e5277dc26697da2b41fb}
+      \strng{authorfullhash}{7bd888a4fcfb0c53e437f43690e17bac}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Focused attention meditation changes the boundary and configuration of functional networks in the brain}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{pages}{18426}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-020-75396-9
+      \endverb
+    \endentry
+    \entry{1}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d0c765cedcaeac8e3631cb2e8d03530e}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bad0a7a81bc0da51365f491396fa9e8}{%
+           family={Al-Jahdali},
+           familyi={A\bibinithyphendelim J\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Armed Forces Hospital}%
+      }
+      \strng{namehash}{3da0d099119371f519a36b133ba008ae}
+      \strng{fullhash}{3da0d099119371f519a36b133ba008ae}
+      \strng{bibnamehash}{3da0d099119371f519a36b133ba008ae}
+      \strng{authorbibnamehash}{3da0d099119371f519a36b133ba008ae}
+      \strng{authornamehash}{3da0d099119371f519a36b133ba008ae}
+      \strng{authorfullhash}{3da0d099119371f519a36b133ba008ae}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurosciences (Riyadh, Saudi Arabia)}
+      \field{number}{2}
+      \field{title}{The consequences of sleep deprivation on cognitive performance}
+      \field{volume}{28}
+      \field{year}{2023}
+      \field{pages}{91\bibrangedash 99}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.17712/nsj.2023.2.20220108
+      \endverb
+    \endentry
+    \entry{3}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=0a6e9b3c55567992d01d0117aa5ad0a8}{%
+           family={Künstler},
+           familyi={K\bibinitperiod},
+           given={Erika\bibnamedelimb C.\bibnamedelimi S.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6897cdb472e864d3c227ca58fd219660}{%
+           family={Bublak},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0eb88b72a150ab971b55421d636325f1}{%
+           family={Finke},
+           familyi={F\bibinitperiod},
+           given={Kathrin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e79ee7ca815a2bb8ba4a294e5ff1b29}{%
+           family={Koranyi},
+           familyi={K\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9607a1f9d28c0d05bf9c524fc43c7117}{%
+           family={Meinhard},
+           familyi={M\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=076677a52eaf502406badb22f798019f}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3af00274396787c434e102112f4c03cd}{%
+           family={Rupprecht},
+           familyi={R\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f82bbe60b9ebc98c21d2866c05ded81a}
+      \strng{fullhash}{672a6dd832fe0bca1360156729f9f03a}
+      \strng{bibnamehash}{672a6dd832fe0bca1360156729f9f03a}
+      \strng{authorbibnamehash}{672a6dd832fe0bca1360156729f9f03a}
+      \strng{authornamehash}{f82bbe60b9ebc98c21d2866c05ded81a}
+      \strng{authorfullhash}{672a6dd832fe0bca1360156729f9f03a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature and Science of Sleep}
+      \field{title}{The Relationship Between Cognitive Impairments and Sleep Quality Measures in Persistent Insomnia Disorder}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{491\bibrangedash 498}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2147/NSS.S399644
+      \endverb
+    \endentry
+    \entry{8}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=96ea764e5dd50348d225d047c5df8d16}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={June\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac4814a3d5768078e9bff98db598ebf4}{%
+           family={Groeger},
+           familyi={G\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c702957c5ca3c3a113dde86d3cd7814}{%
+           family={Santhi},
+           familyi={S\bibinitperiod},
+           given={Nele},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c9d99a662100906a4c1f3e8ff72181d}{%
+           family={Arbon},
+           familyi={A\bibinitperiod},
+           given={Emma\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f534779d09f77fca6560018450ad10f6}{%
+           family={Lazar},
+           familyi={L\bibinitperiod},
+           given={Andreea\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=914e10fd4de7f9f0c8f0f6983640bbd3}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Shahab},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ea72fb8ca07cf5b91e82609154725e8a}
+      \strng{fullhash}{f862d98463468cb943d625837d8495b0}
+      \strng{bibnamehash}{f862d98463468cb943d625837d8495b0}
+      \strng{authorbibnamehash}{f862d98463468cb943d625837d8495b0}
+      \strng{authornamehash}{ea72fb8ca07cf5b91e82609154725e8a}
+      \strng{authorfullhash}{f862d98463468cb943d625837d8495b0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS One}
+      \field{title}{Effects of partial and acute total sleep deprivation on performance across cognitive domains, individuals, and circadian phase}
+      \field{volume}{7}
+      \field{year}{2012}
+      \field{pages}{e45987}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0045987
+      \endverb
+    \endentry
+    \entry{7}{misc}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fe8b2f2690a23f59315710ef8b859713}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={AK},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=918cdf92e7b4639ef28fc2ca3732cb12}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a5e2a527350274ef87461511fb658f9}{%
+           family={Shumway},
+           familyi={S\bibinitperiod},
+           given={KR},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{223ca249bbb8151dc2fa23635b6001b0}
+      \strng{fullhash}{6505d9030f083bf2b95291faf20b4331}
+      \strng{bibnamehash}{6505d9030f083bf2b95291faf20b4331}
+      \strng{authorbibnamehash}{6505d9030f083bf2b95291faf20b4331}
+      \strng{authornamehash}{223ca249bbb8151dc2fa23635b6001b0}
+      \strng{authorfullhash}{6505d9030f083bf2b95291faf20b4331}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ncbi.nlm.nih.gov/books/NBK526132/}}
+      \field{note}{Updated 2024 Jan 26. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-.}
+      \field{title}{Physiology, Sleep Stages}
+      \field{year}{2024}
+    \endentry
+    \entry{16}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8e8d4714aec6529b53d45141d180eef6}{%
+           family={Rasch},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fc48c30d9b0c001bd53b6ccdb73ad9c}{%
+           family={Pommer},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e835feafe3e6b39d65d961b6fa174f6}{%
+           family={Diekelmann},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee1f2afc10c7af6031586b734d7da03c}{%
+           family={Born},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc21601e7ca781b2a8ccfe8067c00ca9}
+      \strng{fullhash}{555f1cdc603d8de6ddee2abe11d6303e}
+      \strng{bibnamehash}{555f1cdc603d8de6ddee2abe11d6303e}
+      \strng{authorbibnamehash}{555f1cdc603d8de6ddee2abe11d6303e}
+      \strng{authornamehash}{dc21601e7ca781b2a8ccfe8067c00ca9}
+      \strng{authorfullhash}{555f1cdc603d8de6ddee2abe11d6303e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Neuroscience}
+      \field{title}{Pharmacological REM Sleep Suppression Paradoxically Improves Rather than Impairs Skill Memory}
+      \field{volume}{12}
+      \field{year}{2009}
+      \field{pages}{396\bibrangedash 397}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1038/nn.2206
+      \endverb
+    \endentry
+    \entry{14}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e669339b82ae1f947f768ecf4bce1a11}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {Sleep Disorders}%
+        {Research Center at Henry Ford Health System, Henry Ford Hospital Sleep Center, 2799 West Grand Blvd., Detroit, MI 48202, USA}%
+      }
+      \list{publisher}{1}{%
+        {American Academy of Sleep Medicine}%
+      }
+      \strng{namehash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{fullhash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{bibnamehash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{authorbibnamehash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{authornamehash}{e669339b82ae1f947f768ecf4bce1a11}
+      \strng{authorfullhash}{e669339b82ae1f947f768ecf4bce1a11}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Insomnia, a common sleep disorder, affects millions of people and has serious health consequences. This paper reviews the definition, prevalence, etiology, and consequences of insomnia, highlighting its impact on mental health, comorbid conditions, and quality of life.}
+      \field{issn}{1550-9389}
+      \field{journaltitle}{Journal of Clinical Sleep Medicine: JCSM: Official Publication of the American Academy of Sleep Medicine}
+      \field{month}{8}
+      \field{note}{Research support, Non-U.S. Gov't; Review}
+      \field{number}{5 Suppl}
+      \field{title}{Insomnia: definition, prevalence, etiology, and consequences}
+      \field{volume}{3}
+      \field{year}{2007}
+      \field{pages}{S7\bibrangedash S10}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.5664/jcsm.26929
+      \endverb
+      \keyw{Insomnia,Prevalence,Etiology,Consequences,Epidemiology,Mental Disorders,Sleep Disorders}
+    \endentry
+    \entry{2}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=664e873d3acbc46df4c0481c56b3a879}{%
+           family={Sen},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=6ea5fed449b364ef5ff5af498a3e51c1}{%
+           family={Tai},
+           familyi={T\bibinitperiod},
+           given={X.Y.},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{fullhash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{bibnamehash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{authorbibnamehash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{authornamehash}{de9fd978bbf5deadd03195838d482f0d}
+      \strng{authorfullhash}{de9fd978bbf5deadd03195838d482f0d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Neurology and Neuroscience Reports}
+      \field{title}{Sleep Duration and Executive Function in Adults}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{801\bibrangedash 813}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s11910-023-01309-8
+      \endverb
+    \endentry
+    \entry{13}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=377683ee819468dafca6bb2767ebe07d}{%
+           family={Suemoto},
+           familyi={S\bibinitperiod},
+           given={Claudia\bibnamedelima K.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6524125aefa437dfbc3383dea161264d}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Rosane\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f285b8f3d6b1722c017eddef4d9ff4e}{%
+           family={Giatti},
+           familyi={G\bibinitperiod},
+           given={Luana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c72224635378921a1589297f02721566}{%
+           family={Aielo},
+           familyi={A\bibinitperiod},
+           given={Ana\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=996a6a6a62567175c32a067322a3acee}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Walter\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a7b8859dec86fbcacdd071817462b1e}{%
+           family={Parise},
+           familyi={P\bibinitperiod},
+           given={Bruna\bibnamedelima K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30c0c624d567c3adcf9815344256fd9a}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Leandro\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46503659a8b25628659f9f98f1e73822}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Sérgio\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4ab48884f68fe78f2ab5536be8d998e}{%
+           family={Griep},
+           familyi={G\bibinitperiod},
+           given={Rosane\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a6a029650f3efe66234f159dd826513}{%
+           family={Brunoni},
+           familyi={B\bibinitperiod},
+           given={André\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a152fd06aa97dd540e98f9935065ab5}{%
+           family={Lotufo},
+           familyi={L\bibinitperiod},
+           given={Paulo\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad1280f55091b0fd5f59e7faec06e279}{%
+           family={Bensenor},
+           familyi={B\bibinitperiod},
+           given={Isabela\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3764ccd45239eba214d4686ed195f8b}{%
+           family={Drager},
+           familyi={D\bibinitperiod},
+           given={Luciano\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e8932c241be1a4e007796332553bbae}
+      \strng{fullhash}{437a9fde2367d46df433353aa1788552}
+      \strng{bibnamehash}{437a9fde2367d46df433353aa1788552}
+      \strng{authorbibnamehash}{437a9fde2367d46df433353aa1788552}
+      \strng{authornamehash}{9e8932c241be1a4e007796332553bbae}
+      \strng{authorfullhash}{437a9fde2367d46df433353aa1788552}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sleep Research}
+      \field{title}{Association between objective sleep measures and cognitive performance: a cross-sectional analysis in the Brazilian Longitudinal Study of Adult Health (ELSA-Brasil) study}
+      \field{volume}{32}
+      \field{year}{2023}
+      \field{pages}{e13659}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1111/jsr.13659
+      \endverb
+    \endentry
+    \entry{11}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=66c19c24f8ad9175b6133c38c803521c}{%
+           family={Tai},
+           familyi={T\bibinitperiod},
+           given={Xin\bibnamedelima You},
+           giveni={X\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=90ea174e8cf93b1be0a5f0d29098868d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf947392d3071d2e59960bbf97a42b7c}{%
+           family={Manohar},
+           familyi={M\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d9d4fd0d089ec106e283f32eacda3ad}{%
+           family={Husain},
+           familyi={H\bibinitperiod},
+           given={Masud},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39c99266ba598b2eb7ac4eb2a6485ef1}
+      \strng{fullhash}{088faf74161c4ceb7b63a1c3f93fe9f3}
+      \strng{bibnamehash}{088faf74161c4ceb7b63a1c3f93fe9f3}
+      \strng{authorbibnamehash}{088faf74161c4ceb7b63a1c3f93fe9f3}
+      \strng{authornamehash}{39c99266ba598b2eb7ac4eb2a6485ef1}
+      \strng{authorfullhash}{088faf74161c4ceb7b63a1c3f93fe9f3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2399-3642}
+      \field{journaltitle}{Communications Biology}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Impact of sleep duration on executive function and brain structure}
+      \field{volume}{5}
+      \field{year}{2022}
+      \field{pages}{201}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s42003-022-03123-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s42003-022-03123-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s42003-022-03123-3
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

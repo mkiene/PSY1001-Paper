@@ -1,0 +1,23 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'build/Understanding Sleepâs Critical Role in Cognitive Health and Memory Consolidation.blg'
+[31] biber-darwin:340> INFO - === Mon Aug  5, 2024, 12:31:30
+[141] Biber.pm:419> INFO - Reading './build/Understanding Sleep’s Critical Role in Cognitive Health and Memory Consolidation.bcf'
+[183] Biber.pm:979> INFO - Found 14 citekeys in bib section 0
+[193] Biber.pm:4419> INFO - Processing section 0
+[198] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[199] bibtex.pm:1713> INFO - LaTeX decoding ...
+[208] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[280] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[280] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[280] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[280] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[299] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[299] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[299] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[299] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[312] bbl.pm:660> INFO - Writing 'build/Understanding Sleepâs Critical Role in Cognitive Health and Memory Consolidation.bbl' with encoding 'UTF-8'
+[332] bbl.pm:763> INFO - Output to build/Understanding Sleepâs Critical Role in Cognitive Health and Memory Consolidation.bbl
+[332] Biber.pm:131> WARN - legacy month field 'May' in entry '10' is not an integer - this will probably not sort properly.
+[332] Biber.pm:131> WARN - legacy month field 'Mar' in entry '11' is not an integer - this will probably not sort properly.
+[332] Biber.pm:131> WARN - legacy month field 'Aug' in entry '14' is not an integer - this will probably not sort properly.
+[332] Biber.pm:133> INFO - WARNINGS: 3
